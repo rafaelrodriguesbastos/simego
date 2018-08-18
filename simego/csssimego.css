@@ -1,0 +1,56 @@
+body {
+	background-color: #2E8B57;
+	color: #2E8B57;
+	font-family: Segoe UI, Sans-serif;
+	font-size: 14pt;
+}
+
+.titulo {
+	font-family: Arial Black;
+	font-size: 18pt;
+	color: #2E8B57;
+}
+
+.texto {
+	font-family: Segoe UI, Sans-serif;
+	font-size: 16pt;
+	color: #2E8B57;
+}
+	
+select {
+	color: #006400;
+	font-family: Segoe UI, Sans-serif;
+	font-size: 14pt;
+	}
+
+.botao {
+    display: block;
+	font-family: Segoe UI, Sans-serif;
+	font-size: 18pt;
+    color: #2E8B57;
+    border: none;
+}
+
+.menu2 {
+	font-family: Nueva Std, Sans-serif;
+	font-size: 14pt;
+	color: #2E8B57;
+}
+
+a {
+	text-decoration: none;
+	font-family: Eurostile;
+	font-size: 20pt;
+	color: #F5F5DC;
+	}
+
+a:hover {
+	text-decoration: underline overline; 
+	font-family: Eurostile;
+	font-size: 24pt;
+	color: #2E8B57;
+	}
+
+
+
+
